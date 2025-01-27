@@ -20,6 +20,6 @@ PRODUCT_DEVICE := marble
 PRODUCT_MANUFACTURER := Xiaomi
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := POCO/marble_global/marble:14/UKQ1.230804.001/V816.0.14.0.UMRMIXM:user/release-keys
+BUILD_FINGERPRINT := POCO/marble_global/marble:12/SKQ1.230401.001/V816.0.17.0.UMRMIXM:user/release-keys
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
