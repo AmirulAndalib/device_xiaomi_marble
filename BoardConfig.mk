@@ -45,7 +45,3 @@ TARGET_SCREEN_DENSITY := 440
 
 # Camera - Miui
 TARGET_CAMERA_PACKAGE_NAME := com.android.camera
-
-# Vibrator
-TARGET_QTI_VIBRATOR_EFFECT_LIB := libqtivibratoreffect.xiaomi
-TARGET_QTI_VIBRATOR_USE_EFFECT_STREAM := true
