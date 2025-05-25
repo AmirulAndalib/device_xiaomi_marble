@@ -13,6 +13,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 EVO_BUILD_TYPE := Official
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_BUILD_APERTURE_CAMERA := false
+TARGET_DISABLE_EPPE := true
 
 # Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_marble
